@@ -17,11 +17,7 @@ image#coracao{
 }
 
 ul#album-fotos{
-<<<<<<< HEAD
     width: 800px;
-=======
-    width: 700px;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     margin: 0 auto;
     padding: 50px;
     overflow: hidden;
@@ -32,11 +28,7 @@ ul#album-fotos li {
     float: left;
     width:  200px;
     height: 200px;
-<<<<<<< HEAD
     margin: 10px 20px 15px 20px;
-=======
-    margin: 10px;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     border: 5px solid white;
     background-color: #ffffff;
     box-shadow: 1px 1px 3px rgba(0,0,0,.4);
@@ -62,11 +54,7 @@ ul#album-fotos li:hover span{
 }
 
 ul#album-fotos li#foto01{
-<<<<<<< HEAD
     background: url('imagens/cremoso.jpg') no-repeat;
-=======
-    background: url('_imagens/cremoso.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -78,11 +66,7 @@ ul#album-fotos li#foto01:hover {
 }
 
 ul#album-fotos li#foto02{
-<<<<<<< HEAD
     background: url('imagens/quatroleites.jpg') no-repeat;
-=======
-    background: url('_imagens/quatroleites.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -94,11 +78,7 @@ ul#album-fotos li#foto02:hover {
 }
 
 ul#album-fotos li#foto03{
-<<<<<<< HEAD
     background: url('imagens/revelvet.jpg') no-repeat;
-=======
-    background: url('_imagens/revelvet.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -110,11 +90,7 @@ ul#album-fotos li#foto03:hover {
 }
 
 ul#album-fotos li#foto04{
-<<<<<<< HEAD
     background: url('imagens/cenoura.jpg') no-repeat;
-=======
-    background: url('_imagens/cenoura.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -126,11 +102,7 @@ ul#album-fotos li#foto04:hover {
 }
 
 ul#album-fotos li#foto05{
-<<<<<<< HEAD
     background: url('imagens/tortamineira.jpg') no-repeat;
-=======
-    background: url('_imagens/tortamineira.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -142,11 +114,7 @@ ul#album-fotos li#foto05:hover {
 }
 
 ul#album-fotos li#foto06{
-<<<<<<< HEAD
     background: url('imagens/banoffe.jpg') no-repeat;
-=======
-    background: url('_imagens/banoffe.jpg') no-repeat;
->>>>>>> 4b30b345ea43253814918de5fc2169f284c24303
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
